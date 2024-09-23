@@ -12,4 +12,4 @@ Like a website, a PWA can run on multiple platforms and devices from a single co
 "PWAs are built by front-end web developers with JavaScript, CSS, and HTML. That is, there is no need to hire both Android and iOS mobile developers.
 in addition : built using common web technologies including as i mentioned (HTML, CSS, JS) and WebAssembly as well"
 
-** GO TOWARD NEED EXPERIENCES **
+*** GO TOWARD NEW EXPERIENCES ***
